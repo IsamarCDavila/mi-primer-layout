@@ -1,0 +1,54 @@
+/*-------------------------------------coder-detail*/
+.box{
+	text-align: center;
+}
+.cont{
+	width: 700px;
+	margin:auto;
+	border:2px solid black;
+
+}
+.perfil{
+	width:  200px;
+	height: 200px;	 
+   	border-radius: 100px;
+   	top: 100px;
+   	left: 150px;
+}
+.barras{
+	border:1px;
+	color: white;
+	margin:30px;
+	
+}
+.Barra1{
+	background: #696969;
+	width: 500px;
+	height:20px;
+	padding:20px;
+	margin:10px; 
+}
+.Barra2{
+	background: #696969;
+	width:200px ;
+	height:20px;
+	padding:20px;
+	margin:10px;
+}
+.Barra3{
+	background: #696969;
+	width: 100px;
+	height:20px;
+	padding:20px;
+	margin:10px;
+}
+.caja{
+	clear:both;
+	width: 100;
+}
+img{
+	width: 200px;
+	height:130px ;
+	display:inline;
+	margin:15px;
+}
